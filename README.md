@@ -140,15 +140,11 @@ The system maintains a complete audit trail for every intercepted file and remed
 
 ### Defining the Real Problem
 
-Initially, we focused on threat detection. However, after researching enterprise security workflows, we realized that many organizations already have tools that can detect issues. The larger challenge is what happens after detection. The approval process, remediation planning, and communication between stakeholders often create significant delays. This insight shifted Servo from a simple scanning tool into a security decision and remediation platform.
+Initially, due to limitations in our technical experience, we had to spend countless hours (barely any code even 25 hours in!) working around our original ideas which were either too advanced, too boring, or not fully grasping the context of the challenge prompt. Due to this we had to pivot our direction multiple times in order to finalise an idea that was not only feasible, but impactful.
 
-### Balancing Automation and Trust
+### Building the MVP 
 
-Security teams need confidence before allowing automated actions. We had to design workflows that provide transparency, explainability, and human oversight while still reducing manual effort.
-
-### Making Security Actionable
-
-Raw alerts create noise. Generating clear remediation recommendations and executive-friendly reports proved just as important as accurately identifying risks.
+Required a lot of prompt engineering to build something sufficient using 'Hua-Shu' design which challenged our team coordination, organisation, and innovation as we had to spend a large chunk of time to really understand the actual challenges construction companies faced and high-level concepts that we had never encountered before.
 
 ---
 
