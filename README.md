@@ -15,6 +15,14 @@ Servo is an AI-powered security interception platform that acts as an autonomous
 This is AI serving organizational resilience: reducing response times, preventing data exposure, and helping security teams focus on the threats that matter most.
 
 ---
+## Team Name: ILoveBingSu
+## Team Members:
+1. Loh Yee Zhi
+2. Khoo Yan She
+3. Edric Wong Ken Rong
+4. Isabella Chen Cheu Tein
+5. Miyu Eng Xin Yu
+---
 
 ## What it does
 
